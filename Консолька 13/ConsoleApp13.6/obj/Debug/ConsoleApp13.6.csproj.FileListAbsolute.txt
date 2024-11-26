@@ -1,0 +1,7 @@
+D:\Белько 215\Консолька 13\ConsoleApp13.6\bin\Debug\ConsoleApp13.6.exe.config
+D:\Белько 215\Консолька 13\ConsoleApp13.6\bin\Debug\ConsoleApp13.6.exe
+D:\Белько 215\Консолька 13\ConsoleApp13.6\bin\Debug\ConsoleApp13.6.pdb
+D:\Белько 215\Консолька 13\ConsoleApp13.6\obj\Debug\ConsoleApp13.6.csproj.AssemblyReference.cache
+D:\Белько 215\Консолька 13\ConsoleApp13.6\obj\Debug\ConsoleApp13.6.csproj.CoreCompileInputs.cache
+D:\Белько 215\Консолька 13\ConsoleApp13.6\obj\Debug\ConsoleApp13.6.exe
+D:\Белько 215\Консолька 13\ConsoleApp13.6\obj\Debug\ConsoleApp13.6.pdb
