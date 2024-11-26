@@ -1,7 +1,0 @@
-D:\Белько 215\ConsoleApp13.3\bin\Debug\ConsoleApp13.3.exe.config
-D:\Белько 215\ConsoleApp13.3\bin\Debug\ConsoleApp13.3.exe
-D:\Белько 215\ConsoleApp13.3\bin\Debug\ConsoleApp13.3.pdb
-D:\Белько 215\ConsoleApp13.3\obj\Debug\ConsoleApp13.3.csproj.AssemblyReference.cache
-D:\Белько 215\ConsoleApp13.3\obj\Debug\ConsoleApp13.3.csproj.CoreCompileInputs.cache
-D:\Белько 215\ConsoleApp13.3\obj\Debug\ConsoleApp13.3.exe
-D:\Белько 215\ConsoleApp13.3\obj\Debug\ConsoleApp13.3.pdb
